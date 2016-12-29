@@ -1,0 +1,2 @@
+# Development-of-a-basic-Digital-Oscilloscope-and-a-Signal-generator-using-the-DE2i-150-and-the-VGA-mo
+Using the Quartus II software, I have written a Verilog code that implements the basic oscilloscope and the signal generator in the DE2i_150 board. I have implemented a VGA controller to generate the VGA synchronization and timing signals and use this controller to implement a basic digital oscilloscope that can be used to display your digital signals.
